@@ -1,0 +1,10 @@
+path, line {
+    fill: none;
+    stroke: grey;
+    shape-rendering: crispEdges;
+}
+
+text {
+    font: 10px sans-serif;
+    color: darkslategrey;
+}
